@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="8/10/2020 7:55:49 PM"
+  DTS:CreationDate="8/24/2020 10:10:36 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="TEDDY"
   DTS:CreatorName="TEDDY\Washington DC Costco"
-  DTS:DTSID="{AFF6CC99-D502-4153-A29E-3C3424374DE0}"
+  DTS:DTSID="{3B09D349-D5F9-4B59-BA7A-3F3BD28A186B}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.2000.123"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionGUID="{DC2E0D30-22B6-4195-957F-E1EA45E48603}">
+  DTS:VersionGUID="{57B0A9BE-42D0-4C48-B770-F493C1A44E7A}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
